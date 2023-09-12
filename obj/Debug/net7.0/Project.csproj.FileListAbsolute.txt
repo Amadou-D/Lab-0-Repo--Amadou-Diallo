@@ -40,3 +40,31 @@ C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Project\Lab-0-Repo--Am
 C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Project\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.pdb
 C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Project\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.genruntimeconfig.cache
 C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Project\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\ref\Project.dll
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.exe
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.deps.json
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.dll
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.pdb
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.dll
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\refint\Project.dll
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.pdb
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Git Repos\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\ref\Project.dll
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.exe
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.deps.json
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.dll
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\bin\Debug\net7.0\Project.pdb
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.dll
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\refint\Project.dll
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.pdb
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\amado\OneDrive\Documents\Amadou SD Semester 2\C#\Lab-0-Repo--Amadou-Diallo\obj\Debug\net7.0\ref\Project.dll

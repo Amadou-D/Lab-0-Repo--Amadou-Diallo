@@ -155,14 +155,37 @@
         return true;
     }
     static void FindPrimeInRange()
-    { 
-        double low_number = GetDoubleInput("Enter a low number: ");
-        double high_number = GetDoubleInput("Enter a high number: ");
+    {
+        double low_number;
+        double high_number;
+
+        do
+        {
+            low_number = GetPositiveDoubleInput("Enter a low number to use for the range of primes: ");
+            if (low_number <= 0)
+            {
+                Console.WriteLine("Invalid input. Please enter a positive low number.");
+            }
+        } while (low_number <= 0);
+
+        do
+        {
+            high_number = GetPositiveDoubleInput("Enter a high number to use for the range of primes: ");
+            if (high_number <= low_number)
+            {
+                Console.WriteLine("Invalid input. Please enter a high number greater than the low number.");
+            }
+        } while (high_number <= low_number);
+
+        Console.WriteLine($"Prime numbers between {low_number} and {high_number}:");
+
         for (double num = low_number; num <= high_number; num++)
         {
-            if (PrimeChecker((num)))
-                { Console.WriteLine($"{num} is a prime number");
+            if (PrimeChecker(num))
+            {
+                Console.WriteLine($"{num} is a prime number");
             }
         }
     }
+
 }

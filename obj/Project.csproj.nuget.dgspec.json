@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Project\\Lab-0-Repo--Amadou-Diallo\\Project.csproj": {}
+    "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Lab-0-Repo--Amadou-Diallo\\Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Project\\Lab-0-Repo--Amadou-Diallo\\Project.csproj": {
+    "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Lab-0-Repo--Amadou-Diallo\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Project\\Lab-0-Repo--Amadou-Diallo\\Project.csproj",
+        "projectUniqueName": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Lab-0-Repo--Amadou-Diallo\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Project\\Lab-0-Repo--Amadou-Diallo\\Project.csproj",
+        "projectPath": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Lab-0-Repo--Amadou-Diallo\\Project.csproj",
         "packagesPath": "C:\\Users\\amado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Project\\Lab-0-Repo--Amadou-Diallo\\obj\\",
+        "outputPath": "C:\\Users\\amado\\OneDrive\\Documents\\Amadou SD Semester 2\\C#\\Lab-0-Repo--Amadou-Diallo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
